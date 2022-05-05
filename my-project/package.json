@@ -6,6 +6,7 @@
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
+    "build": "strapi build",
     "strapi": "strapi"
   },
   "devDependencies": {},
@@ -19,7 +20,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "3e96f6b4-2db3-48e9-ad36-db0aa5a385f3"
+    "uuid": "9ee4b21c-fd81-4095-a3c8-e390e2b25088"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
